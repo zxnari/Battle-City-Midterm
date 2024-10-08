@@ -14,5 +14,6 @@ namespace Chapter.Singleton
         {
             Debug.Log("Final # of Kills: " + kills);
         }
+
     }
 }
